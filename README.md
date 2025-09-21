@@ -1,4 +1,4 @@
-#📊 Attendance Calculator
+**📊 Attendance Calculator**
 
 A simple Python program to help students track and manage their class attendance.
 It calculates your current attendance percentage and tells you:
